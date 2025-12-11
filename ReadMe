@@ -1,0 +1,153 @@
+Supermarket Sales Dashboard (Excel Project)
+
+
+
+
+A complete sales analytics project using Excel, PivotTables, KPI Cards, and interactive slicers.
+This dashboard provides insights into revenue performance, customer behavior, product sales, and profitability across different supermarket branches.
+
+🛠 Tools Used
+
+Microsoft Excel
+
+PivotTables
+
+PivotCharts
+
+KPI Cards
+
+Slicers
+
+Data Cleaning & Feature Engineering
+
+📁 Project Structure
+📦 Supermarket-Sales-Dashboard
+│
+├── data/
+│    └── supermarket_sales_full.csv
+│
+├── dashboard/
+│    └── Supermarket_Sales_Dashboard.xlsx
+│
+├── images/
+│    └── dashboard_screenshot.png
+│
+└── README.md
+
+📊 Key KPIs
+
+This dashboard includes the following KPIs:
+
+Total Transactions: 500
+
+Total Sales: $174,254.79
+
+Total Profit Estimate: $40,274.95
+
+Average Rating: 6.92
+
+KPI cards were created using PivotTables and custom formatting.
+
+📈 Dashboard Visuals
+
+The dashboard includes:
+
+✔ Revenue Analysis
+
+Sales by Branch
+
+Sales by Product Line
+
+Monthly Sales Trend
+
+✔ Customer Behavior
+
+Sales by Gender
+
+Sales by Customer Type
+
+Average Rating by Product Line
+
+✔ Payment Method Breakdown
+
+Distribution of Cash, Ewallet, and Credit Card payments
+
+✔ Interactive Slicers
+
+Slicers included for:
+
+Month
+
+Product Line
+
+Branch
+
+Payment Method
+
+Gender
+
+This allows users to filter and explore the dataset dynamically.
+
+🔍 Feature Engineering
+
+New calculated fields were added to enhance analysis:
+
+RevenueWithoutTax
+
+DayOfWeek
+
+MonthName
+
+HourOfDay
+
+ProfitEstimate (30% margin)
+
+These features improve trend and profitability insights.
+
+📊 Key Insights
+1. Sales Performance
+
+The supermarket generated $174k in total revenue across 500 transactions.
+
+Estimated profit is ~$40k, assuming a 30% margin.
+
+2. Top Product Lines
+
+Electronic Accessories and Food & Beverages lead in total sales.
+
+Baby Care and Fashion Accessories contribute less revenue.
+
+3. Branch Performance
+
+Branch A and Branch C outperform Branch B.
+
+Branch B shows growth potential.
+
+4. Customer Trends
+
+Monthly sales remain steady with small fluctuations.
+
+Average customer rating is 6.92, indicating moderate satisfaction.
+
+5. Payment Insights
+
+Ewallet is the most popular payment method.
+
+Digital payment adoption is strong across customers.
+
+6. Gender & Customer Type
+
+Sales are balanced between Male and Female customers.
+
+Members slightly outperform Normal customers in total spending.
+
+📄 Conclusion
+
+This dashboard provides a clear and interactive overview of supermarket sales activity.
+It highlights high-performing regions, products, and customer trends, enabling data-driven decisions for inventory, promotions, and customer engagement.
+
+
+👩‍💼 Author
+
+Faith Berida
+Data Analyst | Data Engineering Enthusiast
